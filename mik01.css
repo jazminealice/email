@@ -9,7 +9,7 @@ table.car {
        padding: 10px 20px 10px 20px;
       }
 
-      img.car {
+img.car {
        box-sizing:border-box;
        width: 100%;
        height: auto;
@@ -20,7 +20,7 @@ table.car {
        padding: 0px 0px 0px 0px;
       }
 
-      .car-header {
+.car-header {
       color: #fff;
       text-align: center;
       margin: -5px 0px 4px 0px;
@@ -28,15 +28,14 @@ table.car {
       font-size:1.3em;
       }
 
-      .car-extra {
+.car-extra {
       font-size:1.05em;
       text-align: center;
       color:#ebebeb;
       margin: -4px 0px 4px 0px;
-
       }
 
-      .car-info {
+.car-info {
       font-size:1.25em;
       color:#fff;
       text-align: center;
@@ -44,9 +43,8 @@ table.car {
       margin: 4px 0px -2px 0px;
       }
 
-      .table {
+.table {
       margin: auto;
       text-align: center;
       width: 70%;
-      
       }
