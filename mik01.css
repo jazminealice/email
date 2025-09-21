@@ -11,8 +11,8 @@ table.car {
 
       img.car {
        box-sizing:border-box;
-       width: 100%;
-       height: auto;
+       width: 80%;
+       height: 80%;
        align: center;
        margin: auto;
        border: 5px solid #fff288;
@@ -50,3 +50,4 @@ table.car {
       width: 70%;
       
       }
+
